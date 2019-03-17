@@ -1,4 +1,4 @@
-# Learning
+### CustomerValueAnalysis
 数据分析与数据挖掘学习笔记 —— 航空公司客户价值分析
 
 主要内容   
